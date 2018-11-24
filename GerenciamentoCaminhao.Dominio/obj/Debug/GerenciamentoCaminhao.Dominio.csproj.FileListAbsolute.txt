@@ -1,0 +1,10 @@
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\bin\Debug\GerenciamentoCaminhao.Dominio.dll
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\bin\Debug\GerenciamentoCaminhao.Dominio.pdb
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\bin\Debug\FluentValidator.dll
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\bin\Debug\GerencimentoCaminhao.Compartilhado.dll
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\bin\Debug\GerencimentoCaminhao.Compartilhado.pdb
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\obj\Debug\GerenciamentoCaminhao.Dominio.csprojAssemblyReference.cache
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\obj\Debug\GerenciamentoCaminhao.Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\obj\Debug\GerenciamentoCaminhao.Dominio.csproj.CopyComplete
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\obj\Debug\GerenciamentoCaminhao.Dominio.dll
+C:\Users\Marcos Lima\source\Workspaces\GerenciamentoCaminhao\GerenciamentoCaminhao.Dominio\obj\Debug\GerenciamentoCaminhao.Dominio.pdb

@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2048
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-Dominio", "01-Dominio", "{D815329E-0F9F-4777-8FA1-F5AFA4D83F69}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02-Compartilhado", "02-Compartilhado", "{B2473224-D579-4DEC-B3EE-C8D78F405014}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "03-Infra", "03-Infra", "{B75F17AC-D295-4CF6-844A-DEE0857E7B29}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoCaminhao.Dominio", "GerenciamentoCaminhao.Dominio\GerenciamentoCaminhao.Dominio.csproj", "{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerencimentoCaminhao.Compartilhado", "GerencimentoCaminhao.Compartilhado\GerencimentoCaminhao.Compartilhado.csproj", "{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoCaminhaInfra", "GerenciamentoCaminhaInfra\GerenciamentoCaminhaInfra.csproj", "{7B3E3485-2D09-4058-A701-A9C9A678E7EA}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-Aplicacao", "04-Aplicacao", "{4C6DEE55-720E-4715-8661-ADFC517B75D5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GerenciamentoCaminhao.WinForms", "GerenciamentoCaminhao.WinForms\GerenciamentoCaminhao.WinForms.csproj", "{DF127786-372A-4A47-B17D-B1A638D68148}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7B3E3485-2D09-4058-A701-A9C9A678E7EA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7B3E3485-2D09-4058-A701-A9C9A678E7EA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7B3E3485-2D09-4058-A701-A9C9A678E7EA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7B3E3485-2D09-4058-A701-A9C9A678E7EA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DF127786-372A-4A47-B17D-B1A638D68148}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF127786-372A-4A47-B17D-B1A638D68148}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF127786-372A-4A47-B17D-B1A638D68148}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF127786-372A-4A47-B17D-B1A638D68148}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{6AD4BA13-EFE6-43EF-8BDE-12BB390E6E47} = {D815329E-0F9F-4777-8FA1-F5AFA4D83F69}
+		{BBB75C5D-C21E-4F57-A55C-BB3A983D2D81} = {B2473224-D579-4DEC-B3EE-C8D78F405014}
+		{7B3E3485-2D09-4058-A701-A9C9A678E7EA} = {B75F17AC-D295-4CF6-844A-DEE0857E7B29}
+		{DF127786-372A-4A47-B17D-B1A638D68148} = {4C6DEE55-720E-4715-8661-ADFC517B75D5}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {35FC02CE-5DED-41E9-AC47-66FE7FF603AF}
+	EndGlobalSection
+EndGlobal
